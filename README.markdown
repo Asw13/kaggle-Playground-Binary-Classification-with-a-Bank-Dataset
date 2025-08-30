@@ -75,7 +75,7 @@
 ## 📚 References  
 
 - 🔗 [Competition Page](https://www.kaggle.com/competitions/playground-series-s5e8)  
-- 📑 My Kaggle Notebooks (add link here once public)  
+- 📑 My Kaggle Notebooks (https://www.kaggle.com/code/astik13aw/notebook16349fe563) 
 
 ---
 
